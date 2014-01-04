@@ -19,10 +19,10 @@ run "get_win8key.exe" or "python get_win8key.py" from a Windows shell.
 
 Requirements
 -------------
--Windows Vista or higher (32 or 64 bit)
--tested with Python 2.7
+-Windows Vista or higher (32 or 64 bit)  
+-tested with Python 2.7  
 
 Files
 -------------
-get_win8key.py 			the script
-get_win8key.exe			compiled py2exe
+get_win8key.py 			the script  
+get_win8key.exe			compiled py2exe  
