@@ -24,5 +24,5 @@ Requirements
 
 Files
 -------------
-get_win8key.py 			the script  
-get_win8key.exe			compiled py2exe  
+get_win8key.py..................the script  
+get_win8key.exe.................compiled py2exe  
