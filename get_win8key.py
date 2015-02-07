@@ -1,3 +1,4 @@
+import sys
 import ctypes
 import ctypes.wintypes
 
@@ -66,9 +67,9 @@ try:
 	WindowsKey=GetWindowsKey()
 	if WindowsKey==False:
 		print("unexpected error")
-		exit(1)
+		sys.exit(1)
 	else:
 		print(str(WindowsKey))
 except:
 	print("unexpected error")
-	exit(1)
+	sys.exit(1)
